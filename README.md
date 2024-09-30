@@ -34,7 +34,7 @@ I'm actively seeking roles as:
 - **Full-Stack Web Developer**
 - **Security Analyst**
 - **Information Security Consultant**
-- **Penetration Testert**
+- **Penetration Tester**
 
 Feel free to reach out — I'd love to hear from you!
 
