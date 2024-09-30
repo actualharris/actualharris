@@ -25,7 +25,7 @@ I am deeply passionate about working in **Enterprise Network Security**, **Cyber
 
 ## 🎯 Certifications & Training
 - 📜 **Jr Penetration Tester** from TryHackMe
-- 📜 **Web Deveopment Bootcamp** from Udemy
+- 📜 **Web Development Bootcamp** from Udemy
 
 ---
 
