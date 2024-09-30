@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Haris
 
-<!--
-**actualharris/actualharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Bachelor’s Degree** in *Computer Science and Engineering with Specialization in Network and Cyber Security*  
+🏫 *PES University*
 
-Here are some ideas to get you started:
+I am deeply passionate about working in **Enterprise Network Security**, **Cyber Security Operations Infrastructure**, and **Web Development**. My inquisitive nature, paired with hard work and teamwork, drives me to excel in these fields. I thrive in **fast-paced environments** and am committed to growing my expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Key Skills
+
+### 🛡️ Information Security:
+- **Network Security Protocols**
+- **Vulnerability Assessment**
+- **Penetration Testing**
+- **Networking Concepts**
+
+### 🌐 Web Development:
+- **HTML, CSS, Javascript (ECMAScript - ES6)**
+- **React.JS, Node.JS, Express.JS**
+- **RESTful APIs, JQuery**
+- **Python, SQL**
+
+---
+
+## 🎯 Certifications & Training
+- 📜 Completed **TryHackMe's 'Jr Penetration Tester'** Training Course
+
+---
+
+## 🔍 Looking for Opportunities
+I'm actively seeking roles as:
+- **Full-Stack Web Developer**
+- **Security Analyst**
+- **Information Security Consultant**
+- **Cyber Threat Analyst**
+
+Feel free to reach out — I'd love to hear from you!
+
+## 🛠️ Tools and Technologies
+
+<img align="left" src="https://img.icons8.com/color/32/000000/python.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/html-5.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/css3.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/javascript.png"/>
+<img align="left" src="https://img.icons8.com/officel/32/000000/react.png"/>
+<img align="left" src="https://img.icons8.com/color/32/000000/git.png"/>  
