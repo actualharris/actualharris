@@ -43,7 +43,7 @@ Feel free to reach out — I'd love to hear from you!
 
 <img align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/>
-<img align="left" src="https://www.vectorlogo.zone/logos/reactjs/nodejs-icon.svg" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/>
