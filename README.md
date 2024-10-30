@@ -3,7 +3,7 @@
 🎓 **Bachelor’s Degree** in *Computer Science and Engineering with Specialization in Network and Cyber Security*  
 🏫 *PES University*
 
-I am deeply passionate about working in **Enterprise Network Security**, **Cyber Security Operations Infrastructure**, and **Web Development**. My inquisitive nature, paired with hard work and teamwork, drives me to excel in these fields. I thrive in **fast-paced environments** and am committed to growing my expertise.
+I am deeply passionate about working in **Web Development**, **Enterprise Network Security** and **Cyber Security Operations Infrastructure**. My inquisitive nature, paired with hard work and teamwork, drives me to excel in these fields. I thrive in **fast-paced environments** and am committed to growing my expertise.
 
 ---
 
@@ -16,9 +16,9 @@ I am deeply passionate about working in **Enterprise Network Security**, **Cyber
 - **Networking Concepts**
 
 ### 🌐 Web Development:
-- **HTML, CSS, Javascript (ECMAScript - ES6)**
 - **React.JS, Node.JS, Express.JS**
 - **RESTful APIs, JQuery**
+- **HTML, CSS, Javascript (ES6)**
 - **Python, SQL**
 
 ---
@@ -26,6 +26,7 @@ I am deeply passionate about working in **Enterprise Network Security**, **Cyber
 ## 🎯 Certifications & Training
 - 📜 **Jr Penetration Tester** from TryHackMe
 - 📜 **Web Development Bootcamp** from Udemy
+- 📜 **Worked on several projects (Hosted on GitHub)**
 
 ---
 
@@ -40,9 +41,12 @@ Feel free to reach out — I'd love to hear from you!
 
 ## 🛠️ Tools and Technologies
 
-<img align="left" src="https://img.icons8.com/color/32/000000/python.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/html-5.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/css3.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/javascript.png"/>
-<img align="left" src="https://img.icons8.com/officel/32/000000/react.png"/>
-<img align="left" src="https://img.icons8.com/color/32/000000/git.png"/>  
+<img align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/reactjs/nodejs-icon.svg" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/>
