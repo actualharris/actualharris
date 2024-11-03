@@ -9,17 +9,18 @@ I am deeply passionate about working in **Web Development**, **Enterprise Networ
 
 ## 🛠️ Key Skills
 
-### 🛡️ Information Security:
-- **Network Security Protocols**
-- **Vulnerability Assessment**
-- **Penetration Testing**
-- **Networking Concepts**
-
 ### 🌐 Web Development:
 - **React.JS, Node.JS, Express.JS**
 - **RESTful APIs, JQuery**
 - **HTML, CSS, Javascript (ES6)**
 - **Python, SQL**
+
+
+### 🛡️ Information Security:
+- **Network Security Protocols**
+- **Vulnerability Assessment**
+- **Penetration Testing**
+- **Networking Concepts**
 
 ---
 
