@@ -11,7 +11,7 @@ I am deeply passionate about working in **Web Development**, **Enterprise Networ
 
 ### 🌐 Web Development:
 - **React.JS, Node.JS, Express.JS**
-- **RESTful APIs, JQuery**
+- **RESTful APIs, jQuery, EJS**
 - **HTML, CSS, Javascript (ES6)**
 - **Python, SQL**
 
