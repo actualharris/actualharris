@@ -1,11 +1,26 @@
 # 👋 Hi, I'm Haris
 
+**I am an Entry-Level Software Developer with 1 year of experience**
+
 🎓 **Bachelor’s Degree** in *Computer Science and Engineering with Specialization in Network and Cyber Security*  
 🏫 *PES University*
 
-I am deeply passionate about working in **Web Development**, **Enterprise Network Security** and **Cyber Security Operations Infrastructure**. My inquisitive nature, paired with hard work and teamwork, drives me to excel in these fields. I thrive in **fast-paced environments** and am committed to growing my expertise.
-
 ---
+
+## 🔬 Experience
+
+**Veriteam Software Solutions Pvt. Ltd.,** *Mysore, India*
+
+Dec 2023 - Nov 2024
+
+Responsibilities:
+- Maintained and improved the existing codebase by
+fixing bugs, enhancing functionality, and ensuring code
+quality through best practices.
+- Designed and implemented core UI components on
+several projects to enhance user interaction and
+experience.
+- Contributed to other system improvements.
 
 ## 🛠️ Key Skills
 
@@ -13,7 +28,7 @@ I am deeply passionate about working in **Web Development**, **Enterprise Networ
 - **React.JS, Node.JS, Express.JS**
 - **RESTful APIs, jQuery, EJS**
 - **HTML, CSS, Javascript (ES6)**
-- **Python, SQL**
+- **SQL**
 
 
 ### 🛡️ Information Security:
