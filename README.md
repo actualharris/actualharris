@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Haris
 
-**I am an Entry-Level Software Developer with 1 year of experience**
+**Software Engineer focused on building for the Web**
 
 🎓 **Bachelor’s Degree** in *Computer Science and Engineering with Specialization in Network and Cyber Security*  
 🏫 *PES University*
@@ -26,9 +26,10 @@ experience.
 
 ### 🌐 Web Development:
 - **React.JS, Node.JS, Express.JS**
-- **RESTful APIs, jQuery, EJS**
+- **RESTful APIs, jQuery, Redux**
 - **HTML, CSS, Javascript (ES6)**
-- **SQL**
+- **PostgreSQL, MongoDB**
+- **CI/CD, Docker**
 
 
 ### 🛡️ Information Security:
@@ -49,9 +50,10 @@ experience.
 ## 🔍 Looking for Opportunities
 I'm actively seeking roles as:
 - **Full-Stack Web Developer**
-- **Security Analyst**
-- **Information Security Consultant**
-- **Penetration Tester**
+- **Associate Software Developer**
+- **Frontend Web Developer**
+- **Backend Web Developer**
+- **Site-Reliability Engineer**
 
 Feel free to reach out — I'd love to hear from you!
 
@@ -66,3 +68,5 @@ Feel free to reach out — I'd love to hear from you!
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" width="40" height="40"/>
 <img align="left" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" width="40" height="40"/>
