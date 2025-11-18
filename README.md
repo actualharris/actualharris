@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Haris
 
-**Aspiring Cybersecurity Professional focused on securing Networks and Systems with 1 year of work experience. Proficient in Information Security, Linux and Modern Web Technologies.**
+**Aspiring Cybersecurity Professional focused on securing Networks and Systems with 1 year of work experience. Proficient in Information Security, Linux and Modern Web Technologies. ISC2 Certified in Cybersecurity (CC) and ISC2 Member**
 
 🎓 **Bachelor’s Degree** in *Computer Science and Engineering with Specialization in Network and Cyber Security*  
 🏫 *PES University*
