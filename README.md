@@ -43,6 +43,7 @@ experience.
 ---
 
 ## 🎯 Certifications & Training
+- 📜 **Certified in Cybersecurity** from ISC2
 - 📜 **Jr Penetration Tester** from TryHackMe
 - 📜 **Web Development Bootcamp** from Udemy
 - 📜 **Worked on several projects (Hosted on GitHub)**
