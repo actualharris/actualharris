@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Haris
 
-**Software Engineer focused on building for the Web**
+**Aspiring Cybersecurity Professional focused on securing Networks and Systems with 1 year of work experience. Proficient in Information Security, Linux and Modern Web Technologies.**
 
 🎓 **Bachelor’s Degree** in *Computer Science and Engineering with Specialization in Network and Cyber Security*  
 🏫 *PES University*
@@ -24,19 +24,21 @@ experience.
 
 ## 🛠️ Key Skills
 
+### 🛡️ Information Security:
+- **Network Security Protocols**
+- **Security Controls**
+- **Security Operations**
+- **Incident Response**
+- **Vulnerability Assessment**
+- **Networking Concepts**
+- **Penetration Testing**
+
 ### 🌐 Web Development:
 - **React.JS, Node.JS, Express.JS**
 - **RESTful APIs, jQuery, Redux**
 - **HTML, CSS, Javascript (ES6)**
 - **PostgreSQL, MongoDB**
 - **CI/CD, Docker**
-
-
-### 🛡️ Information Security:
-- **Network Security Protocols**
-- **Vulnerability Assessment**
-- **Penetration Testing**
-- **Networking Concepts**
 
 ---
 
@@ -49,10 +51,10 @@ experience.
 
 ## 🔍 Looking for Opportunities
 I'm actively seeking roles as:
-- **Full-Stack Web Developer**
-- **Associate Software Developer**
-- **Frontend Web Developer**
-- **Backend Web Developer**
+- **Cybersecurity Specialist**
+- **Cybersecurity Analyst**
+- **System Engineer**
+- **L1 Security Analyst**
 - **Site-Reliability Engineer**
 
 Feel free to reach out — I'd love to hear from you!
